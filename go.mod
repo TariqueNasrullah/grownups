@@ -1,4 +1,4 @@
-module github.com/tariquenasrulah/grownups
+module github.com/TariqueNasrullah/grownups
 
 go 1.14
 
